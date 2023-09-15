@@ -1,0 +1,10 @@
+node_modules
+.env
+docker.env
+/dist
+.nyc_output
+coverage
+/aws
+awscliv2.zip
+.serverless/
+scripts
